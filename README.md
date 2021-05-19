@@ -6,4 +6,4 @@ Important &amp; useful URL references
 
 **CSS code validationg url** : https://jigsaw.w3.org/css-validator/
 
-**JavaScript Obfuscator Tool** : https://obfuscator.io/
+**JavaScript Obfuscator Tool (Javascript code minify & encript)** : https://obfuscator.io/
