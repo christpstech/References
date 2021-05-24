@@ -9,3 +9,5 @@ Important &amp; useful URL references
 **JavaScript Obfuscator Tool (Javascript code minify & encript)** : https://obfuscator.io/
 
 **HTML Entities** : https://dev.w3.org/html5/html-author/charref
+
+**Beautiful, free images and photos** : https://unsplash.com/
