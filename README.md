@@ -1,16 +1,18 @@
 # References
 ### Important &amp; useful URL references
 
- - **HTML code validating url** : https://validator.w3.org/nu 
+- **HTML code validating url** : https://validator.w3.org/nu 
 
- - **CSS code validationg url** : https://jigsaw.w3.org/css-validator/
+- **CSS code validationg url** : https://jigsaw.w3.org/css-validator/
 
- - **JavaScript Obfuscator Tool (Javascript code minify & encript)** : https://obfuscator.io/
+- **JavaScript Obfuscator Tool (Javascript code minify & encript)** : https://obfuscator.io/
 
- - **HTML Entities** : https://dev.w3.org/html5/html-author/charref
+- **HTML Entities** : https://dev.w3.org/html5/html-author/charref
 
- - **Beautiful, free images and photos** : https://unsplash.com/
+- **Beautiful, free images and photos** : https://unsplash.com/
 
- - **Free stock photos and videos**  : https://www.pexels.com/
+- **Free stock photos and videos**  : https://www.pexels.com/
 
- - **"Can I use" provides up-to-date browser support** : https://caniuse.com/
+- **"Can I use" provides up-to-date browser support** : https://caniuse.com/
+
+- **Normalize.css makes browsers render all elements more consistently and in line with modern standards** : https://necolas.github.io/normalize.css/
