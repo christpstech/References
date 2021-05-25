@@ -1,7 +1,7 @@
 # References
 ### Important &amp; useful URL references
 
- -  **HTML code validating url** : https://validator.w3.org/nu 
+ - **HTML code validating url** : https://validator.w3.org/nu 
 
  - **CSS code validationg url** : https://jigsaw.w3.org/css-validator/
 
@@ -12,3 +12,5 @@
  - **Beautiful, free images and photos** : https://unsplash.com/
 
  - **Free stock photos and videos**  : https://www.pexels.com/
+
+ - **"Can I use" provides up-to-date browser support** : https://caniuse.com/
