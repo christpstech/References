@@ -16,3 +16,5 @@
 - **"Can I use" provides up-to-date browser support** : https://caniuse.com/
 
 - **Normalize.css makes browsers render all elements more consistently and in line with modern standards** : https://necolas.github.io/normalize.css/
+
+- **CSS gradient generator tool** : https://cssgradient.io/
