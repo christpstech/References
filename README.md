@@ -18,3 +18,5 @@
 - **Normalize.css makes browsers render all elements more consistently and in line with modern standards** : https://necolas.github.io/normalize.css/
 
 - **CSS gradient generator tool** : https://cssgradient.io/
+
+- **The Shapes of CSS** : https://css-tricks.com/the-shapes-of-css/
