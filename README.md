@@ -20,3 +20,5 @@
 - **CSS gradient generator tool** : https://cssgradient.io/
 
 - **The Shapes of CSS** : https://css-tricks.com/the-shapes-of-css/
+
+- **To generate custom code snippets for VSCode** : https://snippet-generator.app/
