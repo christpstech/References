@@ -8,6 +8,6 @@ npm ERR! eipamsui@0.0.0 build:der-view: `ng-packagr -p ./projects/der-view/ng-pa
 npm ERR! Exit status 111 
 
 - **Solution** :
-    Wrongly imported the component/module
-    URL : https://stackoverflow.com/questions/67214967/how-to-fix-error-angular-structure-loaded-both-synchronously-and-asynchronousl
+    Wrongly imported the component/module in the package ***.module.ts** file
+   - URL : https://stackoverflow.com/questions/67214967/how-to-fix-error-angular-structure-loaded-both-synchronously-and-asynchronousl
 
