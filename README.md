@@ -22,3 +22,5 @@
 - **The Shapes of CSS** : https://css-tricks.com/the-shapes-of-css/
 
 - **To generate custom code snippets for VSCode** : https://snippet-generator.app/
+
+- **NgRX store concept and full details**: https://massivepixel.io/blog/angular-state-management/?utm_source=quora&utm_medium=post&utm_campaign=quora
