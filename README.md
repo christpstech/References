@@ -25,4 +25,4 @@
 
 - **NgRX store concept and full details**: https://massivepixel.io/blog/angular-state-management/?utm_source=quora&utm_medium=post&utm_campaign=quora
  
- **MSSQL formatter**: https://www.red-gate.com/website/sql-formatter 
+- **MSSQL formatter**: https://www.red-gate.com/website/sql-formatter 
